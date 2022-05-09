@@ -1,0 +1,15 @@
+Alex Lema
+ICS 462 Assignment #8
+April 25, 2022
+
+Generated password is: UVAW
+Generated password in hex is: 55564157
+Found the password after 365739 guesses.
+It took 0.113000 seconds to find the password.
+
+Generated password is: iY4^
+Generated password in hex is: 6959345e
+Found the password after 14483023 guesses.
+It took 0.581000 seconds to find the password.
+
+It took 5.14 times as long with the expanded character set to guess the password.

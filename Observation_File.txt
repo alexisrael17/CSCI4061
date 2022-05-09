@@ -1,0 +1,6 @@
+ALEX LEMA - ASSIGNMENT #8
+DATE: 4/25/2022
+
+This project took me approximately 25 to 35 hours to complete. The brute force algorithm is complicated to understand in theory, that is, to list all the possible answers to the problem, and then compare against the conditions, the solution that satisfies the conditions is the positive solution. At the end of understanding and learning it is not bad at all, just learn how to use strings and loops to discover the key in four characters.
+
+A brute force attack is a trial and error method used by application programs to decode encrypted data, such as passwords or Data Encryption Standard keys, through exhaustive effort using brute force rather than intellectual strategies. I've learned that a hacker can use a brute force attack to gain access to a website and account, then steal data, shut down the site, or execute another type of attack. Brute force is considered a foolproof approach, although it is time consuming.

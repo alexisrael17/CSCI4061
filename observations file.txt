@@ -1,0 +1,12 @@
+
+//ALEX LEMA - ICS 462 Operating Systems
+//ASSIGNMENT #6
+//DATE: 4/11/2022
+
+On this task I spent 20-30 hours between reading the book and googling for disk scheduling algorithms and how to read files line by line, single variables, strings, arrays.
+
+The slowest part of the computer system is the hard drive. In order to access the hard drive conveniently or effectively, we need the scheduling of the drive. Each algorithm has some advantages and disadvantages. The limitation of each algorithm leads to the evolution of a new algorithm.
+
+These algorithms are not difficult to understand, but they can confuse someone because they are very similar. What we are looking for when using these algorithms is to keep the head movements as small as possible. The less you have to move your head, the faster your search time will be. I will show and explain to you why C-LOOK is the best algorithm to try to set less lookup time.
+
+In C-LOOK, the puck arm, despite going to the end, goes only to the last request to serve in front of the head and then from there to the last request from the other end. It also avoids the additional delay caused by unnecessary travel to the end of the disk. I would like to study disk scheduling in different operating systems and compare them like Mac OS, Linux and Windows.

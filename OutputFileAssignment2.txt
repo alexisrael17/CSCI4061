@@ -1,0 +1,3 @@
+Alex Lema
+ICS 462 Assignment #2
+Sum is :5

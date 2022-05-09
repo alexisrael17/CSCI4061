@@ -1,0 +1,226 @@
+Alex Lema
+ICS 462 Assignment #7
+May 02, 2022
+
+Initializing buffers
+Expected values: 10 512 size buffers, Status Ok
+
+
+Free Buffer Count:
+10 510 size buffers
+0 254 size buffers
+0 126 size buffers
+0 62 size buffers
+0 30 size buffers
+0 14 size buffers
+0 6 size buffers
+
+Requesting 700
+Expected values:
+
+Free Buffer Count:
+10 510 size buffers
+0 254 size buffers
+0 126 size buffers
+0 62 size buffers
+0 30 size buffers
+0 14 size buffers
+0 6 size buffers
+
+Actual = Assigned address: -2
+
+Free Buffer Count:
+10 510 size buffers
+0 254 size buffers
+0 126 size buffers
+0 62 size buffers
+0 30 size buffers
+0 14 size buffers
+0 6 size buffers
+
+Status: OK
+
+Free Buffer Count:
+10 510 size buffers
+0 254 size buffers
+0 126 size buffers
+0 62 size buffers
+0 30 size buffers
+0 14 size buffers
+0 6 size buffers
+
+Requesting 7
+Expected values: 
+9 510 size buffers, 
+1 254 size buffer, 
+1 126 size buffer, 
+1 62 size buffer, 
+1 30 size buffer, 
+1 14 size buffer and 
+1 6 size buffer, 
+
+Status OK
+
+
+Free Buffer Count:
+10 510 size buffers
+0 254 size buffers
+0 126 size buffers
+0 62 size buffers
+0 30 size buffers
+0 14 size buffers
+0 6 size buffers
+
+Actual = Assigned address: Buffer@74a14482
+
+Free Buffer Count:
+9 510 size buffers
+1 254 size buffers
+1 126 size buffers
+1 62 size buffers
+1 30 size buffers
+1 14 size buffers
+2 6 size buffers
+
+Status: OK
+
+Free Buffer Count:
+10 510 size buffers
+0 254 size buffers
+0 126 size buffers
+0 62 size buffers
+0 30 size buffers
+0 14 size buffers
+0 6 size buffers
+
+Requesting 10 510 buffers
+Expected values: 0 510 buffers, 0 for all buffers, Status Tight
+
+Free Buffer Count:
+10 510 size buffers
+0 254 size buffers
+0 126 size buffers
+0 62 size buffers
+0 30 size buffers
+0 14 size buffers
+0 6 size buffers
+
+Actual = Assigned address: Buffer@1540e19d
+Actual = Assigned address: Buffer@677327b6
+Actual = Assigned address: Buffer@14ae5a5
+Actual = Assigned address: Buffer@7f31245a
+Actual = Assigned address: Buffer@6d6f6e28
+Actual = Assigned address: Buffer@135fbaa4
+Actual = Assigned address: Buffer@45ee12a7
+Actual = Assigned address: Buffer@330bedb4
+Actual = Assigned address: Buffer@2503dbd3
+Actual = Assigned address: Buffer@4b67cf4d
+
+Free Buffer Count:
+0 510 size buffers
+0 254 size buffers
+0 126 size buffers
+0 62 size buffers
+0 30 size buffers
+0 14 size buffers
+0 6 size buffers
+
+Status: tight
+Requesting 62
+Expected values: -1, 
+Status Tight
+
+
+Free Buffer Count:
+0 510 size buffers
+0 254 size buffers
+0 126 size buffers
+0 62 size buffers
+0 30 size buffers
+0 14 size buffers
+0 6 size buffers
+
+Actual = Assigned address: -1
+
+Free Buffer Count:
+0 510 size buffers
+0 254 size buffers
+0 126 size buffers
+0 62 size buffers
+0 30 size buffers
+0 14 size buffers
+0 6 size buffers
+
+Status: tight
+
+Free Buffer Count:
+10 510 size buffers
+0 254 size buffers
+0 126 size buffers
+0 62 size buffers
+0 30 size buffers
+0 14 size buffers
+0 6 size buffers
+
+Request 19 254 size buffers
+Expected values: 
+0 510 buffers, 
+19 254 size buffers, 
+0 126 size buffers, 
+0 62 size buffers, 
+0 30 size buffers, 
+0 14 size buffers, 
+0 6 size buffers 
+Status Tight 
+
+
+Free Buffer Count:
+10 510 size buffers
+0 254 size buffers
+0 126 size buffers
+0 62 size buffers
+0 30 size buffers
+0 14 size buffers
+0 6 size buffers
+
+Actual = Assigned address: Buffer@12a3a380
+Actual = Assigned address: Buffer@7ea987ac
+Actual = Assigned address: Buffer@5cad8086
+Actual = Assigned address: Buffer@29453f44
+Actual = Assigned address: Buffer@61bbe9ba
+Actual = Assigned address: Buffer@6e0be858
+Actual = Assigned address: Buffer@511d50c0
+Actual = Assigned address: Buffer@610455d6
+Actual = Assigned address: Buffer@5e2de80c
+Actual = Assigned address: Buffer@60e53b93
+Actual = Assigned address: Buffer@266474c2
+Actual = Assigned address: Buffer@1d44bcfa
+Actual = Assigned address: Buffer@5e481248
+Actual = Assigned address: Buffer@6f94fa3e
+Actual = Assigned address: Buffer@63947c6b
+Actual = Assigned address: Buffer@66d3c617
+Actual = Assigned address: Buffer@355da254
+Actual = Assigned address: Buffer@2b193f2d
+
+Free Buffer Count:
+1 510 size buffers
+18 254 size buffers
+0 126 size buffers
+0 62 size buffers
+0 30 size buffers
+0 14 size buffers
+0 6 size buffers
+
+Status: tight
+
+Debug Output:
+Free Buffer Count: 
+10 510 size buffers, 
+0 254 size buffer, 
+0 126 size buffer, 
+0 62 size buffer, 
+0 30 size buffer, 
+0 14 size buffer and 
+0 6 size buffer, 
+Status OK
+

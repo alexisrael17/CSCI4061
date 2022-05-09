@@ -1,0 +1,18 @@
+
+Alex Lema
+ICS 462 Assignment #6
+April 11, 2022
+
+For FCFS, the total head movement was 640 cylinders.
+For SSTF, the total head movement was 236 cylinders.
+For SCAN, the total head movement was 236 cylinders.
+For CSCAN, the total head movement was 384 cylinders.
+For LOOK, the total head movement was 208 cylinders.
+For CLOOK, the total head movement was 322 cylinders.
+
+For FCFS, the total head movement was 2716 cylinders.
+For SSTF, the total head movement was 1200 cylinders.
+For SCAN, the total head movement was 1100 cylinders.
+For CSCAN, the total head movement was 1972 cylinders.
+For LOOK, the total head movement was 900 cylinders.
+For CLOOK, the total head movement was 1472 cylinders.
